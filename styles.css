@@ -6,7 +6,9 @@ body {
   text-align: center;
   background-color: #F8EFBA;
 }
-
+.app {
+	border: 3px solid blue;
+}
 body div {
   flex: 1;
   padding: 20px;
