@@ -1,7 +1,18 @@
 body {
   display: flex;
   justify-content: center;
+  flex-wrap: nowrap;
   align-items: center;
   text-align: center;
   background-color: #F8EFBA;
+}
+
+div {
+  flex: 1;
+  padding: 20px;
+}
+
+body form button {
+  background-color: #3B3B98;
+  color: white;
 }
