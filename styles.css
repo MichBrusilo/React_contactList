@@ -7,7 +7,7 @@ body {
   background-color: #F8EFBA;
 }
 
-div {
+body div {
   flex: 1;
   padding: 20px;
 }
@@ -23,14 +23,14 @@ body form button {
 }
 
 img {
-	max-width: 30%;
-	min-width: 30%;
+	max-width: 35%;
+	min-width: 35%;
 	height: auto;
 	display: block;
 	margin: 0 auto;
 }
 
 body form input, body form button {
-  border: 1px solid black;
+  border: none;
   padding: 15px 25px;
 }
