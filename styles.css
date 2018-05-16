@@ -29,3 +29,8 @@ img {
 	display: block;
 	margin: 0 auto;
 }
+
+body form input, body form button {
+  border: 1px solid black;
+  padding: 15px 25px;
+}
